@@ -37,6 +37,6 @@ The **CSS box model** is a fundamental concept that defines how elements are str
   - `content-box` (default): Padding and border are *not* included in the content's width and height.
   - `border-box`: Padding and border are included in the content's width and height, making layout calculations easier.
 
-Author - Riya Vishwakarma
+Author - Riya Vishwakarm
 
 Contact for Webdevelopment Projects - riyavishwa2411@gmail.com
